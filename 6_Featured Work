@@ -47,3 +47,41 @@ communication. In this paper (Erickson et al. [7]), authors
 explore the use of a shared gaze ray in a target identification
 task while investigating the influence of different gaze errors
 in the task performance, such as response time and error rate.
+The results show that different error levels in the shared
+gaze had strong effects on participants’ performance, while
+the distance to the task object had less influence on the
+performance and user experience. Interestingly, the study
+also reveals that participants’ self-assessed performance was
+lower than the actual performance in the target identification
+task.
+Exploring interaction techniques for 360 panoramas inside
+a 3D reconstructed scene for mixed reality remote collaboration:
+In this paper (Teo et al. [45]), authors investigate
+the effects of different ways to show 360-degree live video
+on the user’s sense of social/co-presence and cognitive load
+in collaborative object moving tasks. The conducted user
+study compared two modes: (1) projecting the 360-degree
+live video in a sphere, called the “photo-bubble” mode, and
+(2) projecting it as a texture on a low-resolution 3D reconstructed
+mesh, called the “projective texture ” mode. The
+paper presents the results suggesting that both modes could
+provide a high level of social/co-presence and reduce cognitive
+load, and discusses the advantages and limitations of
+each method.
+Effects of personality traits on user trust in human–machine
+collaborations:Beyond collaborations between human users,
+there is increasing research in human–machine (or human–
+agent) collaborations, considering the convergence of
+advanced artificial intelligence (AI), such as intelligent virtual
+assistants, and immersive AR/VR technologies [39].
+This paper Zhou et al. [48] explores the effect of a user’s
+personality trait on the level of trust in a machine’s decisions
+when collaborating with the machine. The user study
+conducted in the paper varied the task design in terms of
+the levels of uncertainty and cognitive load, and examined
+how participants with different personality traits perceived
+the trustworthiness of the collaborative machine’s decisions
+while performing the task. The results reveals that the users’
+personality traits affect their perceived trust in machine decision
+differently with respect to the uncertainty and cognitive
+load conditions.
