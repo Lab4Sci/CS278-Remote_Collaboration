@@ -1,0 +1,40 @@
+Another important aspect that influences the collaboration
+experience in remote settings is to share the user’s view with
+the collaboration partner. For example, the local user’s view
+can be shared with the remote expert so that he/she can understand
+the task progress by watching the shared view [16,34].
+This sharing view feature is particularly important because
+the users could not only see the current state of the task, but
+they could also put themselves in another person’s shoes. In
+collaboration, social understanding and grounding are crucial
+for developing better communication and rapport among the
+collaborators [32]. The view sharing methods are advancing
+both quantitatively and qualitatively, for example use of high
+definition shared views, large panoramic views, and immersive
+technology like first-person VR experience [44].
+In the early stage of remote collaboration technologies,
+researchers used a video conferencing system that could only
+show a simple live video of the task space [9] and the live
+video was streamed from a fixed camera on the local user’s
+head or environment [29]. With a handheld tablet, it was
+not convenient to share the local user’s perspective with the
+remote users because the user’s hands should be occupied
+by holding the tablet/camera while they also need to perform
+the given task [8]. Recent compact wearable camera systems, such as GoPro cameras [41], or see-through head-mounted
+displays (HMDs) with embedded cameras, like Microsoft
+HoloLens, could free the user’s hands and make viewsharing
+simple and easy.
+While the shared view or the layout can be independently
+controlled by the remote/local user, some researchers stitched
+the images from a live video and then constructed a large
+image covering the overall task space [10,17].With the large
+image, the remote expert could have an independent view
+regardless of the current viewpoint of local user’s live video
+and freely navigate around the task space. For example, Lee et
+al. [36] introduced a system sharing a 360-degree live video,
+so both local and remote users could individually control the
+viewpoint in the 360-degree simulated environment. Piumsomboon
+et al. [42] also developed a system that can share a
+3D reconstructed environment of the local user’s task space
+and support both local and remote users’ navigation in the
+environment.
