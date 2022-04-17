@@ -1,0 +1,49 @@
+In this section, we introduce the five accepted papers in this
+issue and briefly summarize their results and findings, in the
+context of the three research aspects; communication cues
+and multimodalities, view sharing and situational awareness,
+and human factors.
+The combination of visual communication cues in mixed
+reality remote collaboration In this paper (Kim et al. [26]),
+explores the impact of combining different visual cues on
+the user-perceived quality of communication and collaboration
+performance. The visual cues were a pointer, sketches,
+and hand gesture cues, which are traditionally independent
+in remote collaboration.
+Two conducted user studies compared four combinations
+of the three cues: (1) hand only, (2) hand+pointer, (3)
+hand+sketch, and (4) hand+pointer+sketch, while varying
+the sharing view mode, either a dependent or an independent
+view. In the dependent view mode, in which the users shares
+the same view, participants mostly used the hand gestures
+due to ease of use and intuitiveness, while the sketches were
+also useful for clarifying any misunderstandings between the
+users. Interestingly, in the independent view mode, in which
+the users had their own views, the hand gesture cues were
+perceived difficult to identify where the hand referred to,
+because of the different perspectives of the users. However,
+the pointer cue turned out to be very useful as an alternative
+for the hand gestures.
+The effects of spatial auditory and visual cues on mixed reality
+remote collaboration: Despite the importance of auditory
+cues in remote collaboration, the current state of research
+in MR remote collaboration largely focuses on investigating
+the effects of visual cues. To fill the gap, this paper (Yang et
+al. [47]), presents a multimodal system that can provide both
+spatial auditory and visual cues to the users, and investigates
+the effects of such multimodal cues on task performance and
+perception in an indoor visual search task through. The user
+study results show that the remote user’s spatialized voice
+guidance and auditory beacons could improve the local user’s
+performance to find objects in a highly cluttered environment
+by providing auditory clues for spatial directions. The paper
+further discusses the potential implications in the integration
+of spatial auditory and visual cues for better user experience
+and performance in remote collaboration contexts.
+Sharing gaze rays for visual target identification tasks in
+collaborative augmented reality: Sharing social cues among
+collaborators is a powerful strategy to improve the quality of
+communication. In this paper (Erickson et al. [7]), authors
+explore the use of a shared gaze ray in a target identification
+task while investigating the influence of different gaze errors
+in the task performance, such as response time and error rate.
