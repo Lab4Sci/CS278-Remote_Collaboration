@@ -1,0 +1,52 @@
+To provide a comprehensive background and share recent
+significant findings in remote collaboration research, we prepared
+this Special Issue on Multimodal Interfaces and Communication
+Cues for Remote Collaboration, while focusing
+on but not necessarily limited to immersive technologies
+like AR/VR/MR. This editorial described the concept of
+remote collaboration and the research aspects of multimodal
+communication cues, sharing the users’ views, and related
+human factors for the reader’s understanding of the focused
+research, and the summaries of the accepted papers written
+by the domain-expert researchers and students were provided.
+While technologies for remote collaboration are evolving
+even beyond the limited scope of “remote,” the research
+aiming at better collaboration and communication tools is
+anticipated to be growing in the future. Despite the good
+amount of research on collaboration-support technologies,
+there are still a lot of gaps that need to be filled by researchers
+and practitioners. For example, regarding the multimodal
+communication cues, the use of multimodal cues could be
+extended to various sensory modalities, such as haptics and
+olfactory [23]. The use of communication cues could also
+go beyond the scope of human sensory channels, e.g., interpretable
+brain signals through electroencephalogram (EEG),
+which are already actively researched in brain-computer
+interface [33].
+The design of the communication cues can also be adaptively
+changed according to user needs. For instance, when
+using hand gesture cues in a large task space where such
+small gestures could be difficult to understand due to the far
+distance from a target object, the hand gesture cue can be
+transferred on the object in a different form, such as a magnified
+gesture cue or a virtual pointer [3]. The pointer cue can
+have different size, color, and level of transparency according
+to distance to the task objects, and appropriate changes of the
+pointer in color and size can moderate the balance between
+attracting the user’s attention and reducing the disturbance
+to see the target objects during the task.
+Considering the recent popularity of social VR platforms,
+embodied virtual avatars or agents could also be an effective
+approach to support or replace human users in collaboration
+tasks [20,21], and research to understand the effects of
+different avatar shapes/appearances in AR/VR is already in
+progress [40].
+For the immersive and realistic view sharing, there is still
+no practical implementation for generating and sharing finegrained
+3D reconstruction of the dynamic task space in real
+time. In the future, various convergence research should be
+conducted to achieve this using advanced computer vision,
+data compression, and network techniques,while the perception
+and cognition studies continue to use different measures
+and tools as a broader scope of human–computer interaction
+and human factors research.
