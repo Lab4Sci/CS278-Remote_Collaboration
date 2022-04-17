@@ -1,0 +1,30 @@
+In remote collaboration contexts, the users should be able
+to interact with the remote collaborators in different places
+both effectively and efficiently for best task performance.
+However, the overall user experience regarding their feeling
+of ease of communication, understanding of the other users’
+emotional states, the sense of social/co-presence and comfort
+is also important to evaluate when considering the effectiveness
+of the collaboration systems. Thus, while developing
+novel interfaces and effective tools for remote collaborations,
+human factors research to understand perception, cognition,
+and behavior with the technology should be conducted and
+supported.
+Researchers have actively studied how visual cues and
+tools of sharing a task space influence the collaborators’
+sense of social/co-presence and cognitive load during the collaboration.
+For instance, Kim et al. [28] conducted a study
+that investigated the effects of augmented visual cues on the
+user-perceived co-presence with the remote user. Piumsomboon
+et al. [43] compared different sharing viewmodes, such
+as shoulder-mounted or hand-held camera views, and found
+that users generally preferred the shoulder-mounted view
+and reported a higher level of co-presence when there was a
+shared view. Regarding the effects of visual cues, Huang et
+al. [15] found that local and remote users have lower cognitive
+load during a remote collaboration when they had more
+visual communication cues available. More recently, Dey et
+al. [5] studied the effect of sharing the user’s physiological
+signalswith the remote users, such as heart beat as a signal for
+representing the user’s emotional state, and found a positive
+influence for emotional experience in a gaming context.
