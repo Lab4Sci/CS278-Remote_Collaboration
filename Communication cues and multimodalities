@@ -1,0 +1,66 @@
+Communication cues are a critical component for effective
+remote collaboration. Many researchers reported that it is
+more challenging to achieve better user experience and performance
+in remote collaboration compared to co-located
+collaboration. The main reason behind this is because of the
+lack of communication cues [15,25]. Therefore, researchers
+have been trying to develop novel remote collaboration
+systems that could offer richer and more efficient communication
+cues for the users to easily understand the task
+situation, while understanding the effects of those cues
+[9,32].
+With typical video conferencing systems, researchers and
+practitioners started to add additional visual cues onto the
+live video stream of the task space, to provide richer communication
+channels, such as a visual pointer, sketches, and
+the users’ hand gestures [9]. Due to the technical challenge of
+capturing dynamic gestures of the users, the visual communication
+cues used in early remote collaboration systems were
+generally limited to a simple pointer and sketches. Later,Kirk
+et al. [31] implemented an system that could simply capture
+and share a live video of hand gestures. However, the cues
+were still primitive pointers, sketches, and hand gestures in
+2D, and the system had limited portability with a fixed camera
+on a tripod and a monitor display. It also did not support any
+sophisticated computer vision tracking, which caused difficulty
+to visualize the cues robustly even when the camera had
+moderate motions. While addressing this issue for pointer
+and sketch cues,Kato and Billinghurst [18] used vision-based
+tracking for stabilizing the sketches—the sketches were at
+the position where they were drawn regardless of the view
+changes. Kim et al. [30] also developed a system that significantly
+increased portability by using a handheld tablet,
+and Gauglitz et al. [10] and Kim et al. [28] further enhanced
+both portability and sketch stabilization. Regarding hand gesture
+cues, Alem et al. [1] increased the portability for a local
+worker wearing lightweight glasses, and Huang et al. [14]
+introduced a system that could capture and share the user’s
+hand gestures and local task space in 3D.
+Recently, there are three trends appearing in the study of
+the communication cues. First, researchers have started more
+focusing on the use of gaze cues as an effective communication cue [6,38], especially given the enhanced performance
+and popularity of low cost eye trackers. By using the gaze
+cues, the users in local and/or remote places can identify
+where the collaboration partner is attending and understand
+the task state and the partner’s intentions. Gupta et al. [11]
+developed a system that visualizes the local user’s gaze as a
+pointer on the shared view, while Higuchi et al. [13] showed
+the remote users’ gaze pointers. Lee et al. [35] chose a bidirectional
+gaze sharing approach that adds both remote and
+local users’ gaze pointers on the shared view.
+Second, it is becoming more and more popular to show
+multiple visual cues simultaneously in remote collaboration.
+While individual visual cues have their own benefits and
+drawbacks, the combination of them could offer an opportunity
+to have richer social interactions while complementing
+each other. For example, Huang et al. [15] explored the use
+of the combined communication cues using sketch and hand
+gesture cues.
+Third, in addition to the multiple visual cues, combining
+different sensory modalities for communication is gaining
+attention from multimodal interfaces and remote collaboration
+researchers. For example, DeVincenzi et al. [4]
+combined a spatial audio cue, the remote user’s spatialized
+voice, together with a live video stream, and found that the
+local user could more easily identify where the remote user
+was located by the direction of the audio source.
