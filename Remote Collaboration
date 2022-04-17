@@ -1,0 +1,93 @@
+As mentioned earlier, collaboration can happen in different
+distance settings, either among co-located users in the same
+place (face to face collaboration), or between distributed
+users in remote places (remote collaboration). Remote collaboration
+has been studied in term of the collaborative performance
+and the user’s perception for more than two decades
+in different research fields, such as telecommunication and
+social psychology. While there are dramatic advances in
+mobile and immersive technologies, e.g., VR/AR/MR, pervasive
+and personal mobile/wearable computing, the potential
+of such technologies is growing in collaboration tasks
+where multiple remote users are equipped with personal and
+immersive devices. Not surprising, research on remote collaboration
+is receiving more and more attention from not
+only the expert researchers and practitioners, but also public
+consumers, with the rapid development and enhancement of
+such technologies.
+One of the common remote collaboration scenarios is
+a remote-expert and local-novice collaboration in different
+application contexts. The main purpose of this collaboration
+is to increase the availability of a remote expert, so that the
+local novice users could get help from the remote expert
+anywhere and anytime with appropriate technological supports.
+For example, a local novice might experience a broken
+machine that needs an expert’s help repairing, a local doctor
+with little expertise might need to conduct an operation on a
+patient with the essential help from a distant expert surgeon,
+or a crime scene investigator could need help from a forensics
+expert in a remote place.
+Here, we describe five essential factors for remote collaboration
+before addressing relevant research aspects in the
+following sections: (1) tasks, (2) local users, (3) remote users,
+(4) communication, and (5) tools for collaboration.
+(1) Task: Since collaboration is a multi-person activity
+for a shared goal, there should be a task that collaborators
+are trying to complete together. A task often
+involves task objects that collaboratorsmanipulate. Several
+researchers reported that the result of the remote collaboration
+can be task dependent because the required
+object manipulation could be different depending on the
+task type [28]. For example, a task for selecting an object
+most likely requires the object’s position information
+shown with a pointing operation, but tasks like fixing a
+car or a bike require both position and orientation information
+for more complex object manipulation.
+(2) Local user A local user is a person who is in the place
+where the task and the task objects are normally located
+[37]. The local user requests a help from a remote user
+who might have expert knowledge to complete the task.
+In a conventional setting like the remote-expert and
+local-novice scenario, the local user would manipulate
+task objects following the remote user’s guidance.
+(3) Remote user As opposed to the local user, a remote user
+is a person who provides information and guidance to
+the local user for completing the shared task [37]. The
+remote user normally does not stay at the place where
+the task objects are, but usually communicates with the
+local user to show or tell them what to do for the task.
+(4) Communication Communication is the activity that the
+users perform to share their thoughts and intent while
+completing the task together. It involves using various
+communication cues, such as verbal and nonverbal
+behaviors, to establish common ground, improve the
+quality of communication, and eventually complete the
+task successfully. For example, the remote user may
+explain the solution to the local user using communication
+cues [27]. Verbal cues are usually considered
+as more fundamental and basic communication cues,
+but they have various limitations because of the lack
+of visual representations, which are often intuitive and
+efficient. Therefore, many remote collaboration systems
+employ visual communication cues, such as a pointer,
+sketching, and hand gestures, in addition to verbal communication.
+(5) Awareness tool/interface Since the local and remote
+users are in different spaces, there should be a awareness
+tool (or an interface) to show the current state of the
+task and the activity progress [24]. Sharing the users’
+views is common feature of the collaboration interface,
+often using conventional video conferencing systems.
+The local and remote user’s collaborative activities can
+be shown in the shared view(s), and communication cues
+also visually displayed. It is important to understand that
+the affordances of the collaboration tools can determine
+the quality of communication and so the general user
+experience and collaboration performance.
+Considering these five factors for remote collaboration,
+researchers have mainly studied three research aspects: (1)
+understanding of the effects of individual communication
+cues and the combinations of multimodal cues, (2) sharing
+the view of the task space for user awareness, and (3) human
+factors that include perception and cognition research and
+the investigation of user profiles. We will cover these three
+research aspects in the following sections.
